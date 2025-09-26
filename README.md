@@ -15,7 +15,7 @@ Per un'illustrazione più dettagliata fare riferimento a "Relazione.pdf"
 - stile UI: CSS
 - database: SQLITE
 
-##PATTERN
+## PATTERN
 - Architetturale: MVC
 - Design: DAO, SINGLETON, SINGLETON (lazy)
   
