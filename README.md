@@ -20,7 +20,7 @@ Per un'illustrazione più dettagliata fare riferimento a "Relazione.pdf"
 - Design: DAO, SINGLETON, SINGLETON (lazy)
   
 ## DOCUMENTAZIONE E TESTING
-Nel file "Relazione.pdf" è presente la documentazione dell'intero progetto, che comprende:
+Nel file "Relazione.pdf" è presente la documentazione del progetto, che comprende:
 - Use Case principali e relative schede di specifica
 - Sequence diagram di dettaglio per i principali Use Case
 - Activity Diagram relativo alle modalità di interazione/operatività del software
@@ -29,6 +29,8 @@ Nel file "Relazione.pdf" è presente la documentazione dell'intero progetto, che
 - Unit test
 - Integration test
 - Test degli utenti generici
+
+Tutti i diagrammi (oltre ai principali in Relazione.pdf) sono presenti in "Diagrammi.pdf"//////////////////////////// ** FINIRE DI SCRIVERE ***
 
 ## NOTE
 - **stato del progetto:**
